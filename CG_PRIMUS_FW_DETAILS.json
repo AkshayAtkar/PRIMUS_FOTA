@@ -1,0 +1,12 @@
+{
+    "type": "esp32-fota-http",
+    "Date": "04/12/2021",
+    "Time": "17:26",
+    "Edited_By": "Mahesh Bhome",
+    "Note": "FOTA files Added CG PRIMUS",
+    "For": "CG_PRIMUS_789",
+    "version": 1.04,
+    "host": "52.188.122.113",
+    "port": 80,
+    "bin": "/fota/CG_PRIMUS/CG_PRIMUS.bin"
+}
